@@ -2,7 +2,7 @@
 
 text=$1
 
-sendKey=${SCT262313TrXOdCFGfoaDUaBJhcB9GIwl2}
+sendKey=${WXSENDKEY}
 title="msg_from_serv00-play"
 URL="https://sctapi.ftqq.com/$sendKey.send?"
 
